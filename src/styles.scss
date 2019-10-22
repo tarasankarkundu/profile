@@ -1,1 +1,39 @@
 /* You can add global styles to this file, and also import other style files */
+.bg{
+  background:#41b0e5;
+  height:1000px;
+  width:100%;
+  color:#fff;
+  position: relative;
+}
+.loader {
+  border: 6px solid #f3f3f3; /* Light grey */
+  border-top: 6px solid #f3f3f3; /* Blue */
+  width: 20px;
+  height: 20px;
+  animation: spin 1.4s linear infinite;
+  text-align: center;
+  margin: 0 auto 1em;
+}
+
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+.bgDiv{
+  font-size: 18px;
+  text-align: center;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+.flex{
+  display: flex;
+}
+.flex-center{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

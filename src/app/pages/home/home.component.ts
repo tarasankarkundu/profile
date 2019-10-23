@@ -16,11 +16,11 @@ export class HomeComponent implements OnInit {
 
   ngOnInit() {
     this.getProfileData();
-    this.getEducationData('/assets/timelineData.json');
+    this.getEducationData('./assets/timelineData.json');
   }
   getProfileData() {
 
-    this.api.getTimelineData('/assets/profile.json').then((data) => {
+    this.api.getTimelineData('./assets/profile.json').then((data) => {
       const res: any = data;
       this.profileData = res.profile;
     }, (err) => {
@@ -32,7 +32,7 @@ getEducationData(url) {
       const res: any = data;
       if (res.timeline) {
         this.educationData = res.timeline;
-        this.getExperienceData('/assets/timelineData2.json');
+        this.getExperienceData('./assets/timelineData2.json');
       }
     }, (err) => {
     });

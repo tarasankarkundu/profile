@@ -38,6 +38,7 @@
 .profiledivXS{
     position: absolute;
     top: 30%;
+    width: 100%;
 }
 
 .card1{
@@ -59,6 +60,7 @@
   padding:60px 40px 20px;
   color:#fff;
   height: 100%;
+  width: 100%
 }
 .profile_content{
     padding:40px;
@@ -167,8 +169,8 @@
       width: auto;
     }
   }
-  .marginTop160{
-      margin-top: 160px;
+  .marginTop130{
+      margin-top: 130px;
   }
   .profileDiv{
       width:auto;
@@ -186,6 +188,10 @@
   }
   .activity {
     padding: 0px;
+  }
+  .bgGrey{
+    width: 100%;
+    margin: 0;
   }
 }
 

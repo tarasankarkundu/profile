@@ -7,7 +7,7 @@
             "date":"Jan 2019-Present",
             "icon":"",
             "desc":"This project aims to provide a web based solution to configure switchboards with devices, design electrical network diagrams and generate quotation for Electricians who deals with small voltages (upto 630 A)",
-            "skills":"Angular 8, NGXS, Typescript, Angular Material, SCSS, HTML5, JSON, karma, jasmine"
+            "skills":"Angular 8, NGXS, Typescript, Angular Material, SCSS, HTML5, JSON, karma, jasmine, Codecept"
 
         },
          {
@@ -17,7 +17,7 @@
             "date":"July 2016 - Dec 2018",
             "icon":"",
             "desc":"One of Schneider Electric's initiatives was to provide a configurator tool for contractors and panel builders to configure medium voltage switchboards. This was built as one of the example project with component bricks and all best practices and standards." ,
-             "skills":"Angular-JS, Angular Material, underscore, Less, HTML5, CSS3, Object Oriented JavaScript, JSON, karma, jasmine."
+             "skills":"Angular-JS, Angular Material, underscore, Less, HTML5, CSS3, Object Oriented JavaScript, JSON, karma, jasmine, D3"
         },
          {
             "title":"Responsive Web Design Framework",

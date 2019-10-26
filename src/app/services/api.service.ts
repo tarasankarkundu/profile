@@ -23,7 +23,7 @@ export class ApiService {
 
   return this.http.get(url, { responseType: 'blob' }).pipe(
     map((res) => {
-        return new Blob([res.toString()], { type: 'application/pdf' });
+        return new Blob([res], { type: 'application/pdf' });
     }));
   }
 }

@@ -17,7 +17,7 @@
             "date":"July 2016 - Dec 2018",
             "icon":"",
             "desc":"One of Schneider Electric's initiatives was to provide a configurator tool for contractors and panel builders to configure medium voltage switchboards. This was built as one of the example project with component bricks and all best practices and standards." ,
-             "skills":"Angular-JS, Angular Material, underscore, Less, HTML5, CSS3, Object Oriented JavaScript, JSON, karma, jasmine, D3"
+             "skills":"ReactJs, Redux, HTML5, CSS3, Object Oriented JavaScript, JSON, Jest, Enzyme"
         },
          {
             "title":"Responsive Web Design Framework",

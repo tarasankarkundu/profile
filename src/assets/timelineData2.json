@@ -10,14 +10,23 @@
             "skills":"Angular 8, NGXS, Typescript, Angular Material, SCSS, HTML5, JSON, karma, jasmine, Codecept"
 
         },
+        {
+          "title":"Mix And Match",
+          "subtitle":"Schneider Electric",
+          "role":"Software Technical Expert",
+          "date":"Jan 2018 - Dec 2018",
+          "icon":"",
+          "desc":"Mix and Match was a tool to help users customize their switches and sockets against their walls of different kinds of rooms. It also allows users personalize the wired devices." ,
+          "skills":"ReactJs, Redux, HTML5, CSS3, Object Oriented JavaScript, JSON, Jest, Enzyme"
+        },
          {
             "title":"Ecoreal AD",
             "subtitle":"Schneider Electric",
              "role":"Software Technical Expert",
-            "date":"July 2016 - Dec 2018",
+            "date":"July 2016 - Jan 2018",
             "icon":"",
             "desc":"One of Schneider Electric's initiatives was to provide a configurator tool for contractors and panel builders to configure medium voltage switchboards. This was built as one of the example project with component bricks and all best practices and standards." ,
-             "skills":"ReactJs, Redux, HTML5, CSS3, Object Oriented JavaScript, JSON, Jest, Enzyme"
+             "skills":"Angular-JS, Bootstrap, Less, CSS, HTML5, CSS3, Object Oriented JavaScript, JSON"
         },
          {
             "title":"Responsive Web Design Framework",
@@ -26,7 +35,7 @@
             "date":"Aug 2015 - July 2016",
             "icon":"",
             "desc":"RWD team comes under product development organization and develops Web application frameworks for the FIS solutions team using which they can develop solutions for their end customers. Its objective is to provide a ready to use web application framework to the teams with all the required features.",
-            "skills":"Angular-JS, Bootstrap, Less, CSS, HTML5, CSS3, Object Oriented JavaScript, JSON."
+            "skills":"Angular-JS, Bootstrap, Less, CSS, HTML5, CSS3, Object Oriented JavaScript, JSON"
         },
          {
             "title":"MoneyGram Online (MGO)",

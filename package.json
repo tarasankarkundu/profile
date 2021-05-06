@@ -26,7 +26,7 @@
     "rxjs": "~6.4.0",
     "tslib": "^1.10.0",
     "zone.js": "~0.9.1",
-    "highcharts": "^7.1.2",
+    "highcharts": "^9.0.0",
     "highcharts-angular": "^2.4.0"
   },
   "devDependencies": {

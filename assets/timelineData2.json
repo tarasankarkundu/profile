@@ -1,86 +1,103 @@
 {
-    "timeline":[
-        {
-            "title":"N630",
-            "subtitle":"Schneider Electric",
-            "role":"Software Technical Expert",
-            "date":"Jan 2019-Present",
-            "icon":"",
-            "desc":"This project aims to provide a web based solution to configure switchboards with devices, design electrical network diagrams and generate quotation for Electricians who deals with small voltages (upto 630 A)",
-            "skills":"Angular 8, NGXS, Typescript, Angular Material, SCSS, HTML5, JSON, karma, jasmine, Codecept"
-
-        },
-        {
-          "title":"Mix And Match",
-          "subtitle":"Schneider Electric",
-          "role":"Software Technical Expert",
-          "date":"Jan 2018 - Dec 2018",
-          "icon":"",
-          "desc":"Mix and Match was a tool to help users customize their switches and sockets against their walls of different kinds of rooms. It also allows users personalize the wired devices." ,
-          "skills":"ReactJs, Redux, HTML5, CSS3, Object Oriented JavaScript, JSON, Jest, Enzyme"
-        },
-         {
-            "title":"Ecoreal AD",
-            "subtitle":"Schneider Electric",
-             "role":"Software Technical Expert",
-            "date":"July 2016 - Jan 2018",
-            "icon":"",
-            "desc":"One of Schneider Electric's initiatives was to provide a configurator tool for contractors and panel builders to configure medium voltage switchboards. This was built as one of the example project with component bricks and all best practices and standards." ,
-             "skills":"Angular-JS, Bootstrap, Less, CSS, HTML5, CSS3, Object Oriented JavaScript, JSON"
-        },
-         {
-            "title":"Responsive Web Design Framework",
-            "subtitle":"FIS",
-             "role":"Senior Technical Lead - Front End",
-            "date":"Aug 2015 - July 2016",
-            "icon":"",
-            "desc":"RWD team comes under product development organization and develops Web application frameworks for the FIS solutions team using which they can develop solutions for their end customers. Its objective is to provide a ready to use web application framework to the teams with all the required features.",
-            "skills":"Angular-JS, Bootstrap, Less, CSS, HTML5, CSS3, Object Oriented JavaScript, JSON"
-        },
-         {
-            "title":"MoneyGram Online (MGO)",
-            "subtitle":"TCS",
-             "role":"Technical Lead",
-            "date":"Oct 2012 - July 2015",
-            "icon":"",
-            "desc":"The MoneyGram brand is recognised throughout the world as a leading global payment services company. This project needed to enhance and maintain 5 of their web applications for various markets",
-            "skills":"Core Java 1.6, HTML5, CSS3, Servlets 2.2, Portlets, jQuery, PL/SQL,  SOAP Web Services."
-        },
-        {
-           "title":"Mobile Maintenance (AMO)",
-            "subtitle":"TCS",
-             "role":"Sr. Software Developer",
-            "date":"April 2012 - September 2012",
-            "icon":"",
-            "desc":"RBC Mobile provides the user a full range of services which includes account balances, pay bills, view transaction history, transfer funds between accounts in CAD/USD and Interact e-Money transfer. Upcoming Payment, a Webspehere Portal application built in HTM5 to allow users to view and delete any upcoming payments in almost native look and feel. Json based services to support upcoming payments application for iPad.",
-            "skills":"Core Java 1.5, HTML5, CSS3, JSP 1.1, Servlets 2.2, Portlets, JavaScript (jQuery)"
-        },
-        {
-          "title":"E-Communication Suite, Secure Message Center",
-          "subtitle":"TCS",
-          "role":"Software Developer",
-          "date":"February 2011 - March 2012",
-          "icon":"",
-          "desc":"Secure Message Centre (SMC) is one of the projects in the stream of digital correspondence. DTP as an extension to Secure Message Centre services to international markets, customers can compose and initiate email inquires through SMC which is subsequently routed to RightNow tool for processing.",
-          "skills":"Core Java 1.5, Struts 1.2, XHTML, XML, JSP 1.1, Servlets 2.2, CSS, JavaScript"
-        },
-        {
-          "title":"User Management Services",
-          "subtitle":"TCS",
-          "role":"Software Developer",
-          "date":"May 2009 - January 2011",
-          "icon":"",
-          "desc":"User Management and Enterprise Services is one of the modules serving under MYCA. The responsibility of this module is to design, build, support, and maintain reusable components providing the business logic for the front end web applications. These components interact with the back end mainframe.",
-          "skills":"JAVA 1.5, XML, JSP 1.1, Servlets 2.2, HTML/XHTML, CSS JavaScript, Web Services, IBM Rational Application Developer, YSlow, Fire Bug, XpresScan, JAWS, Window Eyes, Color Contrast Analyzer"
-        },
-        {
-          "title":"eStatement – Manage Your Card Account (MYCA)",
-          "subtitle":"TCS",
-          "role":"Software Developer",
-          "date":"January 2007 to April 2009",
-          "icon":"",
-          "desc":"MYCA is an online application used by the American Express Card members. The users login to the site to check details like balance, rewards and statements and also allow the user to maintain accounts. The application is linked with and interacts with other American Express sites and services to provide wholesome features to the card member. The Dynamic eStatement is an online application, which provides billing statements for US Consumer, Corporate and OPEN Card members.",
-          "skills":"JAVA, J2EE, XML, HTML, CSS, JavaScript, Eclipse3.2, CMVC"
-        }
-    ]
+  "timeline": [
+    {
+      "title": "Digital Experience",
+      "subtitle": "Tesco",
+      "role": "Software Development Engineer III",
+      "date": "June 2021 - Present",
+      "icon": "",
+      "desc": "Digital experience project is a niche initiative with micro frontend approach to facilitate all collueages with all their needs like shift, absences, skills, documents, inbox etc in a single platform.",
+      "skills": "ReactJS, Redux, Typescript, SingleSPA, Lerna, Node, CSS, HTML5, React Testing Library, Splunk,  Docker, Azure"
+    },
+    {
+      "title": "Wealth Management",
+      "subtitle": "Wells Fargo",
+      "role": "VP, Senior Software Engineer",
+      "date": "Aug 2020 - June 2021",
+      "icon": "",
+      "desc": "This was react based web application to facilitate investment banking features tailored for the customers represtatives.",
+      "skills": "ReactJS, Redux, CSS, HTML5, JSON, React Testing Library, jasmine, Splunk"
+    },
+    {
+      "title": "N630",
+      "subtitle": "Schneider Electric",
+      "role": "Software Technical Expert",
+      "date": "Jan 2019 - Aug 2020",
+      "icon": "",
+      "desc": "This project aims to provide a web based solution to configure switchboards with devices, design electrical network diagrams and generate quotation for Electricians who deals with small voltages (upto 630 A)",
+      "skills": "Angular 8, NGXS, Typescript, Angular Material, SCSS, HTML5, JSON, karma, jasmine, Codecept"
+    },
+    {
+      "title": "Mix And Match",
+      "subtitle": "Schneider Electric",
+      "role": "Software Technical Expert",
+      "date": "Jan 2018 - Dec 2018",
+      "icon": "",
+      "desc": "Mix and Match was a tool to help users customize their switches and sockets against their walls of different kinds of rooms. It also allows users personalize the wired devices.",
+      "skills": "ReactJs, Redux, HTML5, CSS3, Object Oriented JavaScript, JSON, Jest, Enzyme"
+    },
+    {
+      "title": "Ecoreal AD",
+      "subtitle": "Schneider Electric",
+      "role": "Software Technical Expert",
+      "date": "July 2016 - Jan 2018",
+      "icon": "",
+      "desc": "One of Schneider Electric's initiatives was to provide a configurator tool for contractors and panel builders to configure medium voltage switchboards. This was built as one of the example project with component bricks and all best practices and standards.",
+      "skills": "Angular-JS, Bootstrap, Less, CSS, HTML5, CSS3, Object Oriented JavaScript, JSON"
+    },
+    {
+      "title": "Responsive Web Design Framework",
+      "subtitle": "FIS",
+      "role": "Senior Technical Lead - Front End",
+      "date": "Aug 2015 - July 2016",
+      "icon": "",
+      "desc": "RWD team comes under product development organization and develops Web application frameworks for the FIS solutions team using which they can develop solutions for their end customers. Its objective is to provide a ready to use web application framework to the teams with all the required features.",
+      "skills": "Angular-JS, Bootstrap, Less, CSS, HTML5, CSS3, Object Oriented JavaScript, JSON"
+    },
+    {
+      "title": "MoneyGram Online (MGO)",
+      "subtitle": "TCS",
+      "role": "Technical Lead",
+      "date": "Oct 2012 - July 2015",
+      "icon": "",
+      "desc": "The MoneyGram brand is recognised throughout the world as a leading global payment services company. This project needed to enhance and maintain 5 of their web applications for various markets",
+      "skills": "Core Java 1.6, HTML5, CSS3, Servlets 2.2, Portlets, jQuery, PL/SQL,  SOAP Web Services."
+    },
+    {
+      "title": "Mobile Maintenance (AMO)",
+      "subtitle": "TCS",
+      "role": "Sr. Software Developer",
+      "date": "April 2012 - September 2012",
+      "icon": "",
+      "desc": "RBC Mobile provides the user a full range of services which includes account balances, pay bills, view transaction history, transfer funds between accounts in CAD/USD and Interact e-Money transfer. Upcoming Payment, a Webspehere Portal application built in HTM5 to allow users to view and delete any upcoming payments in almost native look and feel. Json based services to support upcoming payments application for iPad.",
+      "skills": "Core Java 1.5, HTML5, CSS3, JSP 1.1, Servlets 2.2, Portlets, JavaScript (jQuery)"
+    },
+    {
+      "title": "E-Communication Suite, Secure Message Center",
+      "subtitle": "TCS",
+      "role": "Software Developer",
+      "date": "February 2011 - March 2012",
+      "icon": "",
+      "desc": "Secure Message Centre (SMC) is one of the projects in the stream of digital correspondence. DTP as an extension to Secure Message Centre services to international markets, customers can compose and initiate email inquires through SMC which is subsequently routed to RightNow tool for processing.",
+      "skills": "Core Java 1.5, Struts 1.2, XHTML, XML, JSP 1.1, Servlets 2.2, CSS, JavaScript"
+    },
+    {
+      "title": "User Management Services",
+      "subtitle": "TCS",
+      "role": "Software Developer",
+      "date": "May 2009 - January 2011",
+      "icon": "",
+      "desc": "User Management and Enterprise Services is one of the modules serving under MYCA. The responsibility of this module is to design, build, support, and maintain reusable components providing the business logic for the front end web applications. These components interact with the back end mainframe.",
+      "skills": "JAVA 1.5, XML, JSP 1.1, Servlets 2.2, HTML/XHTML, CSS JavaScript, Web Services, IBM Rational Application Developer, YSlow, Fire Bug, XpresScan, JAWS, Window Eyes, Color Contrast Analyzer"
+    },
+    {
+      "title": "eStatement – Manage Your Card Account (MYCA)",
+      "subtitle": "TCS",
+      "role": "Software Developer",
+      "date": "January 2007 to April 2009",
+      "icon": "",
+      "desc": "MYCA is an online application used by the American Express Card members. The users login to the site to check details like balance, rewards and statements and also allow the user to maintain accounts. The application is linked with and interacts with other American Express sites and services to provide wholesome features to the card member. The Dynamic eStatement is an online application, which provides billing statements for US Consumer, Corporate and OPEN Card members.",
+      "skills": "JAVA, J2EE, XML, HTML, CSS, JavaScript, Eclipse3.2, CMVC"
+    }
+  ]
 }
